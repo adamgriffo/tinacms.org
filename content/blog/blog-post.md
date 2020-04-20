@@ -1,5 +1,5 @@
 ---
-title: Blog post
+title: My post
 date: '2020-04-20T11:07:51+10:00'
 author: Me
 ---
